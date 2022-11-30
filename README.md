@@ -18,6 +18,6 @@ No periodo de 17 de julho a 8 de outubro de 2022, estive focado no estudo da lin
  
 </div>
 
-![snake gif](https://github.com/galindodiego/galindodiego/blob/output/github-contribution-grid-snake.svg)
+
 
 
