@@ -9,7 +9,7 @@ Sou apaixonado por aquilo que faço, buscando sempre dar o meu melhor.
 
 Tenho conhecimento e práticas em desenvolvimento <b>back-end</b> que é a "área" na qual eu mais me identifico.
 
-🌱Atualmente estou estudando a linguagem <b>Java, Spring, MySQL</b>.
+🌱Atualmente estou estudando as tecnologias <b>Java, Spring, MySQL</b>.
 
 
 <p align="justify">
