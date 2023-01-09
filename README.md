@@ -1,5 +1,4 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/galindodiego)](https://github.com/galindodiego)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-galindo-moura/)](https://www.linkedin.com/in/diego-galindo-moura/)
+
 
 Olá ! <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" /></h3>
 
