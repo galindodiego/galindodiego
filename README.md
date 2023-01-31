@@ -17,6 +17,7 @@ Tenho conhecimento e práticas em desenvolvimento <b>back-end</b> que é a "áre
   <br>&ensp;&emsp; 
   <img alt="Java" align="center" title="Java" src="https://img.shields.io/badge/-Java-blue"/>
   <img alt="Spring" align="center" title="Spring" src="https://img.shields.io/badge/-Spring-green"/>
+  <img alt="REST API" align="center" title="Rest Api" src="https://img.shields.io/badge/-REST%20API-red"/>
 </p>
 
 <p align="justify">
