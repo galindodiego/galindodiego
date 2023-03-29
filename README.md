@@ -32,7 +32,7 @@ Tenho conhecimento e práticas em desenvolvimento <b>back-end</b> que é a "áre
 </p>
 
 
-<b>Obs:</b> No periodo de 17 de julho a 8 de outubro de 2022, estive focado no estudo e me aprofundando na linguagem java.
+
 
 ## GitHub Stats
 <a href="#">
